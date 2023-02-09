@@ -2,10 +2,15 @@
 
 # Seismic visualization notebook
 
-This repository demonstrates how the segysak library can be used to plot an interactive session and create a video using a small cube from Equinor's Vovle dataset.
+This repository demonstrates how the [SEGY-SAK library](https://segysak.readthedocs.io/en/latest/index.html) can be used to plot an interactive session with [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/stable/) and create a video using a small cube from Equinor's [Volve dataset](https://data.equinor.com/dataset/Volve).
 
 - Please see the 'seis_viz_tutorial.ipynb' file for the notebook
 - The video produced by the notebook can be found in the 'volve10r12-full-twt-sub3d.mp4' file
+
+
+**Installation**
+Create an environment for the 
+
 
 ## Acknowledgements
 
