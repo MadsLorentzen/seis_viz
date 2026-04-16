@@ -1,0 +1,8 @@
+segyio
+xarray
+numpy
+pandas
+scipy
+matplotlib
+ipywidgets
+imageio[ffmpeg]
